@@ -1,0 +1,2 @@
+tenant_db_prefix: 'sample_tenants_dbs'
+public_db_name: 'tenants_db'
